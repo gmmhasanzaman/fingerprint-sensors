@@ -49,8 +49,7 @@ public class MainActivity extends AppCompatActivity {
                            @Override
                            public void run() {
                                Toast.makeText(activity, "Success", Toast.LENGTH_SHORT).show();
-                               //Toast.makeText(activity, "Success", Toast.LENGTH_SHORT).show();
-                               //Toast.makeText(activity, "Success", Toast.LENGTH_SHORT).show();
+
                            }
                        });
                    }
